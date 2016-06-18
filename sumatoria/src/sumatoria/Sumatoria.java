@@ -15,7 +15,12 @@ public class Sumatoria {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int n1= 2;
+        int n2 = 10;
+        int t;
+        System.out.println("LA SUMA DE LOS NUMEROS ES:");
+        t=n1+n2;
+        System.out.println(t);
     }
     
 }
